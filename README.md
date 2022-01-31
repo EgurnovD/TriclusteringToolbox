@@ -1,7 +1,7 @@
 # TriclusteringToolbox
 OAC-Triclustering instruments
 
-This is a companion page of the paper on Triclustering of Real-Valued Triadic Contexts.
+This is a companion page for the paper on Triclustering of Real-Valued Triadic Contexts.
 
 
 Таблица 1. Контекст GroupLens
@@ -13,19 +13,19 @@ This is a companion page of the paper on Triclustering of Real-Valued Triadic Co
 
 Таблица 2. Результаты экспериментов на отсутствие данных
 
-% потерь	Количества трикластеров
-Tri-k-means 	Обнаружение исходных кубоидов 
-Tri-k-means 	Количество трикластеров NOAC	Обнаружение исходных кубоидов NOAC
-0	2	Да	2	Да
-10	2	Да	603	Да
-20	2	Да	862	Нет
-30	2	Да	771	Нет
-40	2	Да	664	Нет
-50	2	Да	554	Нет
-60	2	Да	469	Нет
-70	2	Да	329	Нет
-80	2	Да	239	Нет
-90	2	Да	105	Нет
+| % потерь |	Количества трикластеров Tri-k-means |	Обнаружение исходных кубоидов Tri-k-means |	Количество трикластеров NOAC	| Обнаружение исходных кубоидов NOAC |
+| -- | -- | -- | -- | -------- |
+| 0  |	2| 	Да |	2 |	Да |
+| 10 |	2  |	Да |	603	| Да |
+| 20 |	2	 | Да	| 862	| Нет |
+| 30	| 2	| Да	| 771	| Нет |
+| 40	| 2	| Да	| 664	| Нет |
+| 50	| 2	| Да	| 554	| Нет |
+| 60	| 2	| Да	| 469	| Нет |
+| 70	| 2	| Да	| 329	| Нет |
+| 80	| 2	| Да	| 239	| Нет |
+| 90	| 2	| Да	| 105 |	Нет |
+
 
 
 Таблица 3. Результаты экспериментов на шумоустойчивость
